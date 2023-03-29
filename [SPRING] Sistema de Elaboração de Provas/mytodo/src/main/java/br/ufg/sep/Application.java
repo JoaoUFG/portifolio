@@ -1,5 +1,6 @@
 package br.ufg.sep;
 
+//import br.ufg.sep.security.*;
 import com.vaadin.flow.component.dependency.NpmPackage;
 import com.vaadin.flow.component.page.AppShellConfigurator;
 import com.vaadin.flow.theme.Theme;
@@ -16,7 +17,8 @@ import org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConf
  * and some desktop browsers.
  *
  */
-@SpringBootApplication(exclude = ErrorMvcAutoConfiguration.class)
+@SpringBootApplication(exclude = {ErrorMvcAutoConfiguration.class
+})
 @Theme(variant = Lumo.DARK)
 @NpmPackage(value = "line-awesome", version = "1.3.0")
 public class Application implements AppShellConfigurator {
