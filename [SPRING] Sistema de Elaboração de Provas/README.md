@@ -1,1 +1,0 @@
-# projeto-dominios-software
