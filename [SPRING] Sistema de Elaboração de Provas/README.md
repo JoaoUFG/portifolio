@@ -8,5 +8,5 @@
 - O banco de dados está em nuvem utilizando o serviço de RDS da AWS.
 - O servidor está em nuvem utilizando o serviço EC2 da AWS.
 - Contribuidores: [Karlla](https://github.com/karllaloane) e [Guilherme](https://github.com/Guilherme-Abraao)
-- Link da plataforma de Kanban utilizada: (link)[https://trello.com/invite/b/Ux6rYkvh/ATTIa47fb2adef5a57657c9b68f498cc36d1642F391A/sep-sistema-de-elaboracao-de-provas]
+- Link da plataforma de Kanban utilizada: [link](https://trello.com/invite/b/Ux6rYkvh/ATTIa47fb2adef5a57657c9b68f498cc36d1642F391A/sep-sistema-de-elaboracao-de-provas)
 - Nesse projeto eu fui o responsável por apresentar os frameworks para o time e cuidar de grande parte do back end e de todo o banco de dados.
